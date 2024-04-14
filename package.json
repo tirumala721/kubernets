@@ -1,0 +1,13 @@
+{
+  "name": "kubernets",
+  "version": "1.0.0",
+  "description": "Node.json Docker",
+  "author": "tiru6564 <tiru6564@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server.js"
+  },
+  "dependencies": {
+   "express":"4.18.2"
+  }
+}
